@@ -4,7 +4,7 @@ Name: Gharis Primada Hariyono
 ## Important Thing To Do
 Please don't forget to execute `npm install` first.
 
-## Library Information
+## Third Party Library Information
 - Express: [Visit Official Homepage](https://expressjs.com/)
 - Axios: [Visit Official Homepage](https://axios-http.com/)
 - Cheerio: [Visit Official Homepage](https://cheerio.js.org/)
@@ -19,4 +19,5 @@ Here's the test result:
 Thanks for the oppurtunity so I can reach this pre-assessment test's stage. And I will glad to hear about the result as soon as possible.
 
 Sincerely,
-Gharis Primada Hariyono
+
+Gharis Primada Hariyono.
