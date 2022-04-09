@@ -1,0 +1,23 @@
+{
+  "name": "crawl-node",
+  "version": "1.0.0",
+  "description": "This is pre-assessment for backend position on cmlabs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.5.2"
+  }
+}
